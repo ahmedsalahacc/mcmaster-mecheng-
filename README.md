@@ -1,6 +1,3 @@
-Here is a basic structure for your README file:
-
----
 
 # McMaster MECHENG ME754 - Battery State of Charge Estimation
 
@@ -38,7 +35,3 @@ We welcome contributions to enhance the project. Please fork the repository and 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to edit and expand upon this structure as needed for your project.
