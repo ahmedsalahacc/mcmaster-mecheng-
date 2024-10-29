@@ -21,7 +21,6 @@ To get started with the project, clone the repository and install the necessary 
 ```sh
 git clone https://github.com/ahmedsalahacc/mcmaster-mecheng-me754.git
 cd mcmaster-mecheng-me754
-pip install -r requirements.txt
 ```
 
 ## Usage
